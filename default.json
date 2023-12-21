@@ -1,0 +1,72 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.postimg.cc/sxWmPYVv/393196462-1066480877862943-4310296998574398470-n.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Bienvenue",
+          "title1": "Bienvenue sur notre serveur jeune aventurier",
+          "text1": "Bienvenue sur notre serveur  ARK  Ascended- la ou les aventuriers deviennent  des légendes ! vous etes pret a vous  plonger dans un monde brutal ,Alors ce serveur  est l'endroit ideal pour vous arklande vous  offre  une experience de jeux unique et  immersive pour les survivants les plus intrepides!",
+          "imageurl": "https://i.postimg.cc/sxWmPYVv/393196462-1066480877862943-4310296998574398470-n.png"
+	   }
+      },
+	  
+	
+     {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Règlement",
+          "title1": "COMPORTEMENTS & LANGAGES (pour tous)",
+          "text1": "Une seule règle est en vigueur sur  arklande :\n\nLe RESPECT est de mise sur L'Antre des Enfers, vous pouvez discuter de tout ce que vous voulez à condition de respecter les autres.\n\nVous devrez parler français (Yo, Mec, Wesh,... totalement proscrit), toutes personnes ne respectant pas cela se verra banni instantanément.Un Bonjour, un merci ne coûte pas plus cher.\n\nLe vol est formellement interdit (bases, dinos et ressources). \nPour toutes bases claimable : Merci de contacter le joueur tout d'abord, si pas de réponse, contacter le Staff. \n\n<TextStyle.Red>Tout manquement à cette règle sera sanctionné d'un Ban définitif et ce sans explication.</>",
+		   "imageurl": "https://i.postimg.cc/sxWmPYVv/393196462-1066480877862943-4310296998574398470-n.png"
+        }
+      },
+	      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "Paramètres",
+          "title1": "Paramètres du serveur",
+          "text1": "\n Paramètres du serveur\nMap :The Island\nRécolte : X3\nTaming :x3 \nTire amis : Désactivée\nMaturation : X3 \nVue à la troisième personne : Activée\nLocalisation sur la carte : Activée\nCrosshair: activé  \nApprivoisement x3",
+		  "imageurl": "https://i.postimg.cc/sxWmPYVv/393196462-1066480877862943-4310296998574398470-n.png"
+        }
+      },
+	   	     {
+        "tab4": {
+          "layout": 1,
+          "buttontext": "Event",
+          "title1": "EVENT",
+          "text1": "\n Pour célébrer les fêtes de fin d'année, le serveur passera à x4 et se terminera le 7 janvier 2024. Passez de bonnes fêtes 😍\n ",
+		  "imageurl": "https://i.postimg.cc/sxWmPYVv/393196462-1066480877862943-4310296998574398470-n.png"
+        }
+      },
+   
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/5GNaUKvKDg"
+        }
+      },
+      {
+        "link2": {
+          "text": "boutique",
+          "url": "https://arkland.online/"
+        }
+      }
+    
+    ]
+  }
+}
